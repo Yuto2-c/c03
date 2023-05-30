@@ -1,5 +1,6 @@
 {
     "name": "技術の探求C組03",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
